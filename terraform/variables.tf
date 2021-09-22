@@ -21,3 +21,4 @@ variable "image_tag_mutability" {
   default     = "MUTABLE"
   description = "The tag mutability setting for the repository. Must be one of: `MUTABLE` or `IMMUTABLE`"
 }
+
